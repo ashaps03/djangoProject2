@@ -1,0 +1,17 @@
+.container-fluid{
+    background-color: #016BF9;
+}
+
+h1, h2 {
+    color: white;
+}
+
+.input-group{
+    margin-bottom: 2cm;
+}
+
+.small-padding {
+    padding-bottom: 0.05rem;
+}
+
+
